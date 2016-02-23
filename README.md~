@@ -1,0 +1,3 @@
+# SciFiMap
+
+Web-scraping for data on science fiction conventions, then using the BaseMap package to map locations of Texas conventions and normalize by county populations.  Also included is a map of US convention locations.
